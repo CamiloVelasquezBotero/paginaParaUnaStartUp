@@ -2,4 +2,4 @@
 
 Pagina hecha para un StartUp usando Bootstrap
 
-Preview: https://paginastartup.netlify.app/
+Preview: https://pagina-para-una-start-up.vercel.app/
